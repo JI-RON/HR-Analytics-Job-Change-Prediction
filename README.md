@@ -1,6 +1,6 @@
 # HR-Analytics-Job-Change-Prediction
 This project is based on the Kaggle's dataset 'HR Analytics: Job Change od Data Scientists' (https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists).
-'aug_train', 'aug_test' and 'test_target' are the raw files given for the challenge.
+The 'Data' folder contains the raw files given for the challenge: 'aug_train.csv', 'aug_test.csv' and 'test_target.csv'.
 
 
 In this repository you can find a .pbix file with all the code written in Python.
